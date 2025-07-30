@@ -1,0 +1,6 @@
+{
+  "model": "openhermes",
+  "ollama_url": "http://localhost:11434",
+  "use_rich": true,
+  "log_enabled": true
+}
