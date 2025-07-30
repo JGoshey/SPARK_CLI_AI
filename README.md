@@ -3,11 +3,10 @@
 This is a minimalist, terminal-based AI assistant powered by a local GGUF model using `llama-cpp-python`.
 
 # Features
-- Local LLM only (no API keys or internet required)
-- Configurable system prompt and few-shot examples
-- Clean terminal interface with optional `rich` styling
-- Logs conversations to `/logs`
-- Easily forked and modified for your own builds
+Configurable system prompt and few-shot examples,
+Clean terminal interface,
+Logs conversations to `/logs`,
+Easily forked and modified for your own builds
 
 # Usage
 ```bash
